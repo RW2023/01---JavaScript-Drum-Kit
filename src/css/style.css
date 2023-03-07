@@ -1,3 +1,15 @@
+/* Start CSS Reset */
+/* Remove default margin and padding */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* Set box sizing to border-box */
+* {
+  box-sizing: border-box;
+}
+/* End CSS Reset */
 html {
   font-size: 10px;
   background: url('/src/img/empty-stage-with-few-props-red-seats.jpg') bottom center;
