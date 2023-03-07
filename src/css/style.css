@@ -1,6 +1,6 @@
 html {
   font-size: 10px;
-  background: url('https://img.freepik.com/free-photo/empty-stage-with-few-props-red-seats_181624-57595.jpg?w=1380&t=st=1678218227~exp=1678218827~hmac=e15c6d262abb8aec3abe816211fb1901a46a4b41723cf6ddf9063216cb395a83') bottom center;
+  background: url('/src/img/empty-stage-with-few-props-red-seats.jpg') bottom center;
   background-size: cover;
 }
 
