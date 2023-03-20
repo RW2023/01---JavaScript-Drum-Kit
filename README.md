@@ -10,3 +10,8 @@ Features
     Play drum sounds by pressing keys on your keyboard
     Visual feedback for each drum sound with animation
     Mobile-friendly design
+    
+
+
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b24539ec-81bb-4429-80ad-92a37dd912f2/deploy-status)](https://app.netlify.com/sites/javadrumkit/deploys)
